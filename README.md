@@ -1,2 +1,2 @@
-# training_angular_mongoDB
-The main goal of this project is to get used Angular, mongoDB and canvas by creating something very simple.
+# android_app_training
+The main goal of this project is to get used of Android Studio by creating something very simple.
