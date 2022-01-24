@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DominoApp</string>
+    <string name="play_solo">Play solo</string>
+    <string name="ranking">Ranking</string>
+</resources>
